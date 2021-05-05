@@ -12,6 +12,7 @@ h1.logo {
   color: black;
   font-size: 3.25rem;
   margin: 0;
+  max-width: 25%;
 }
 
 main {
