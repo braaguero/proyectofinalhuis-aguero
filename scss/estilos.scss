@@ -96,3 +96,9 @@ td{
     border-spacing: 0;
     padding: 0.4rem;
 }
+img.zoom{
+    transition: width 2s, height 2s, transform 2s;
+}
+img.zoom:hover{
+    transform : scale(1.15);
+}
